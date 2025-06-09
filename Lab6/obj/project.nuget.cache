@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "opvol+7noVY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaliguri\\Documents\\PolyTech\\Функциональное программирование\\functional-programming\\Lab6\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaliguri\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
